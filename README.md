@@ -7,7 +7,7 @@ Unix SmashShell is a small Unix-like shell implementation written in C++ for an 
 - `smash.cpp` - program entry point and command loop.
 - `Commands.h` / `Commands.cpp` - shell command classes and command execution logic.
 - `signals.h` / `signals.cpp` - signal handler declarations and implementation.
-- `Makefile` - build, clean, and submission archive targets.
+- `Makefile` - build, clean
 
 ## Build
 
